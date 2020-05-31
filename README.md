@@ -1,2 +1,2 @@
 # internet_script
-internet_scripting
+internet_scri
